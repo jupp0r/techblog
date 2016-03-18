@@ -1,3 +1,68 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://tech.jupp0r.com/"
+title = "Encounters in Software Engineering"
+languageCode = "en-US"
+MetaDataFormat = "toml"
+theme = "slender"
+paginate = 3
+PaginatePath = "/"
+
+[author]
+name = "Jupp Mueller"
+
+[permalinks]
+
+# Permalink format for pages.
+page = "/:title/"
+
+# Permalink format for blog posts.
+post = "/article/:title/"
+
+[params]
+
+# Change the color scheme of Slender.
+# See above for preview and list of color schemes.
+colorscheme = "white"
+
+# Tagline; HTML accepted here. Keep it concise.
+tagline = "lorem ipsum"
+
+# Footer; Markdown accepted here.
+footer = "Copyright 2016 &copy; Jupp Mueller"
+
+# Description and keywords for <meta> tags.
+# Remember to set this for your main page.
+# This will be overridden by whatever is set by the page or post,
+# defined by `description` and `keywords` variables in the front matter
+# of the markdown file.
+description = "Default Page Description"
+keywords = "default,page,keywords"
+
+# Social links, must be full URLs (e.g. https://github.com/CrimsonRay/).
+# Remove, comment, or leave blank any field to leave them out.
+email = "mailto:jupp0r@gmail.com"
+github = "https://github.com/jupp0r"
+#bitbucket = ""
+twitter = "https://twitter.com/jupp0r"
+stackoverflow = "http://stackoverflow.com/users/1034255/jupp0r"
+linkedin = "https://www.linkedin.com/in/juppm"
+#facebook = ""
+
+# Google Analytics
+# Remove, comment, or leave it blank if you don't have one.
+#ganalytics = "your-google-analytics-tracking-code"
+
+[menu]
+
+# Menu for the nav bar.
+# There must always be one item present (e.g. home).
+[[menu.main]]
+identifier = "home"
+name       = "home"
+url        = "/"
+weight     = 0
+
+[[menu.main]]
+identifier = "about"
+name       = "about"
+url        = "/about/"
+weight     = 1

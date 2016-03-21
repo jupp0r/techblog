@@ -1,4 +1,4 @@
-baseurl = "https://tech.jupp0r.com/"
+baseurl = "https://tech.jupp0r.de/"
 title = "Encounters in Software Engineering"
 languageCode = "en-US"
 MetaDataFormat = "toml"
@@ -24,7 +24,7 @@ post = "/article/:title/"
 colorscheme = "white"
 
 # Tagline; HTML accepted here. Keep it concise.
-tagline = "lorem ipsum"
+tagline = "All things programming"
 
 # Footer; Markdown accepted here.
 footer = "Copyright 2016 &copy; Jupp Mueller"

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encounters in Software Engineering</title>
+    <link>https://tech.jupp0r.de/</link>
+    <description>Recent content on Encounters in Software Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Mar 2016 11:40:26 +0100</lastBuildDate>
+    <atom:link href="https://tech.jupp0r.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://tech.jupp0r.de/about/</link>
+      <pubDate>Fri, 18 Mar 2016 11:40:26 +0100</pubDate>
+      
+      <guid>https://tech.jupp0r.de/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

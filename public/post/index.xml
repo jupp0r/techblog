@@ -6,21 +6,29 @@
     <description>Recent content in Posts on Encounters in Software Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Sep 2016 16:28:52 +0200</lastBuildDate>
-    <atom:link href="https://tech.jupp0r.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2017 18:34:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://tech.jupp0r.de/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>N-API - writing node modules like it&#39;s 2018</title>
+      <link>https://tech.jupp0r.de/article/n-api---writing-node-modules-like-its-2018/</link>
+      <pubDate>Fri, 30 Jun 2017 18:34:51 +0200</pubDate>
+      
+      <guid>https://tech.jupp0r.de/article/n-api---writing-node-modules-like-its-2018/</guid>
+      <description>Yesterday, I gave a tech talk at work about Node&amp;rsquo;s new N-API for ABI-compatible native addons across node versions. Enjoy!
+ </description>
+    </item>
     
     <item>
       <title>Rust - A Safe Alternative to C&#43;&#43;</title>
-      <link>https://tech.jupp0r.de/article/rust---a-safe-alternative-to-c&#43;&#43;/</link>
+      <link>https://tech.jupp0r.de/article/rust---a-safe-alternative-to-c--/</link>
       <pubDate>Fri, 23 Sep 2016 16:28:52 +0200</pubDate>
       
-      <guid>https://tech.jupp0r.de/article/rust---a-safe-alternative-to-c&#43;&#43;/</guid>
-      <description>&lt;p&gt;I recently gave a workshop at work that gives a short introduction to Rust
-and shows how it can make developers much more productive by eliminating
-memory errors and data races.&lt;/p&gt;
-
-&lt;iframe src=&#34;https://slides.com/juppmuller/rust/embed&#34; style=&#34;width: 768px; height: 500px;&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <guid>https://tech.jupp0r.de/article/rust---a-safe-alternative-to-c--/</guid>
+      <description>I recently gave a workshop at work that gives a short introduction to Rust and shows how it can make developers much more productive by eliminating memory errors and data races.
+ </description>
     </item>
     
     <item>
@@ -29,12 +37,8 @@ memory errors and data races.&lt;/p&gt;
       <pubDate>Wed, 15 Jun 2016 11:22:50 +0200</pubDate>
       
       <guid>https://tech.jupp0r.de/article/almost-always-auto/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s a short presentation I gave at work as part of a C++ course I held.
-It&amp;rsquo;s about the usage of the auto keyword and why you should almost always
-prefer it to explicitly specifying the type.&lt;/p&gt;
-
-&lt;iframe src=&#34;//slides.com/juppmuller/auto-in-modern-c/embed&#34; width=&#34;768&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <description>Here&amp;rsquo;s a short presentation I gave at work as part of a C++ course I held. It&amp;rsquo;s about the usage of the auto keyword and why you should almost always prefer it to explicitly specifying the type.
+ </description>
     </item>
     
   </channel>
